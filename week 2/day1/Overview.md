@@ -10,7 +10,7 @@ Welcome to Day 2 of Week 2 in our web development course! Today, we will dive in
   - [Variables and Data Types](#variables-and-data-types)
   - [Functions](#functions)
   - [Basic Document Object Model (DOM) Manipulation](#basic-document-object-model-dom-manipulation)
-- [Assignment](#assignment)
+- [Day Objective](#day-objective)
 
 ## Introduction
 
@@ -35,17 +35,15 @@ In this section, you will get acquainted with the fundamentals of JavaScript, in
 - Accessing and modifying HTML elements using JavaScript.
 - Adding event listeners to respond to user interactions.
 
-## Assignment
+## Day Objective
 
-For today's assignment, you will apply your newfound JavaScript skills to create an interactive web page. Your task is to build a simple webpage that features:
+**By the end of today's session, you will be able to:** 
 
-1. A form with input fields.
-2. JavaScript code that validates and processes user input when the form is submitted.
-3. Displaying results or feedback on the webpage based on user input.
+1. Create a web page with a form containing input fields.
+2. Write JavaScript code to validate and process user input when the form is submitted.
+3. Display dynamic results or feedback on the webpage based on user input.
 
-You are encouraged to use the concepts you've learned today, such as variables, functions, and DOM manipulation, to complete this assignment successfully.
-
-Feel free to be creative with your project, and don't hesitate to explore JavaScript further to enhance your web page's functionality.
+You will achieve this objective by applying the JavaScript skills you learn during today's session. This assignment will help you practice using variables, functions, and DOM manipulation to create an interactive and responsive web page. Get ready to be creative and explore the world of JavaScript to enhance your web development skills!
 
 ## Resources
 

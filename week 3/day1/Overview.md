@@ -14,7 +14,7 @@
   - [Built-in Modules](#built-in-modules)
 - [Node.js HTTP Module](#nodejs-http-module)
   - [Creating a Simple Web Server](#creating-a-simple-web-server)
-- [Assignment](#assignment)
+- [Day Objective](#day-objective)
 
 ## Introduction
 
@@ -88,15 +88,17 @@ app.listen(3000, () => {
 
 ```
 
-## Assignment
+## Day Objective
 
-Your assignment for today is to create a simple web server using Node.js and the HTTP module. You should be able to respond to incoming HTTP requests with a "Hello, World!" message.
+**By the end of today's session, you will be able to:** 
 
-Feel free to explore and experiment with the capabilities of Node.js as you embark on your journey into server-side development.
+  1. Create a basic web server using Node.js and the Express Framework.
+  2. Understand the fundamental concepts of server-side development.
+  3. Handle incoming HTTP requests and respond with custom messages.
+  4. Gain confidence in exploring and experimenting with Node.js capabilities.
 
-Remember to refer to the resources provided for additional guidance and documentation.
-
-Happy coding!
+  
+You will achieve these objectives by building a simple web server that can respond to incoming HTTP requests with a "Hello, World!" message. This hands-on experience will introduce you to server-side development using Node.js and serve as a foundation for more advanced server applications in the future. Enjoy your journey into the world of server-side programming!
 
 ## Resources
 

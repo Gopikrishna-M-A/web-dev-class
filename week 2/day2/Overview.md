@@ -12,7 +12,7 @@ Welcome to Day 3 of Week 2 in our web development course! Today, we're diving de
 - [Working with APIs](#working-with-apis)
   - [Fetching Data](#fetching-data)
   - [JSON Parsing](#json-parsing)
-- [Assignment](#assignment)
+- [Day Objective](#day-objective)
 
 ## Introduction
 
@@ -84,15 +84,13 @@ console.log(parsedData);
 ]
 ```
 
-## Assignment
+## Day Objective
 
-**Objective:** Build a web application that fetches data from an external API and displays it on your webpage. You can choose an API of your interest, such as weather data, news articles, or any other public API.
+**By the end of today's session, you will be able to:** 
 
-**Requirements:**
-
-1. Fetch data from the chosen API using Fetch or async/await.
-2. Parse the JSON response.
-3. Display the relevant data on your webpage.
+1. Use JavaScript to fetch data from an external API.
+2. Parse JSON data received from the API using techniques such as JSON.parse().
+3. Dynamically display the relevant data retrieved from the API on your webpage using DOM manipulation.
 
 Feel free to get creative and add additional features or styling to make your application stand out.
 

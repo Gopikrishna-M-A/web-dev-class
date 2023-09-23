@@ -8,7 +8,8 @@ Welcome to Day 2 of Week 2 in the "Intermediate HTML, CSS, and JavaScript" secti
 - [CSS Selectors](#css-selectors)
 - [Styling Text and Fonts](#styling-text-and-fonts)
 - [Box Model and Layout](#box-model-and-layout)
-- [Assignment](#assignment)
+- [CSS Flexbox](/week%201/day2/flex.md)
+- [Day Objective](#day-objective)
 
 ---
 
@@ -78,3 +79,16 @@ Understanding the CSS box model is essential for controlling the layout and spac
 }
 
 ```
+
+
+## Day Objective
+
+**By the end of today's session, you will be able to:** 
+
+  1. Create visually appealing and responsive web pages using HTML and CSS.
+  2. Structure web content effectively with HTML tags and elements.
+  3. Apply CSS styles to control layout, typography, colors, and visual presentation.
+  4. Build responsive designs that adapt to different screen sizes and devices.
+  5. Understand and use CSS selectors and properties for targeted styling.
+  6. Debug and troubleshoot HTML and CSS code to ensure compatibility and consistency.
+  7. Collaborate with others to design and implement interactive web interfaces.

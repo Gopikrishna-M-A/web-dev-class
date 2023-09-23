@@ -10,6 +10,7 @@
 - [CRUD Operations](#crud-operations)
 - [Connecting MongoDB to Node.js](#connecting-mongodb-to-nodejs)
 - [Creating a Simple Login Page](#creating-a-simple-login-page)
+- [Day Objective](#day-objective)
 
 ## Introduction
 
@@ -111,9 +112,11 @@ User.findOneAndDelete({ username: 'john_doe' }, () => {
 });
 ```
 
-## Creating a Simple Login Page
+## Day Objective
 
-We'll start building a simple login page for your web project. This is an exciting step toward creating a functional web application.
+**By the end of today's session, you will be able to:** 
+
+develop a simple login page for your web project. This is an exciting step toward creating a functional web application.
 
 ```javascript
 const express = require('express');

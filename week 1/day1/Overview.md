@@ -27,6 +27,7 @@ Welcome to Day 1 of Week 1 in the "Basic HTML and CSS" section of our Web Develo
   - [`<li>`](#list-items)
 - [Containers](#containers)
   - [`<div>`](#div)
+- [Day Objective](#day-objective)
 
 ## Introduction
 
@@ -188,3 +189,16 @@ HTML (Hypertext Markup Language) is a fundamental language used in web developme
     <p>This is some content inside a div.</p>
   </div>
   ```
+
+
+## Day Objective
+
+**By the end of today's session, you will be able to:** 
+
+  1. Create well-structured web pages using HTML.
+  2. Understand and use essential HTML elements, such as headings, paragraphs, lists, links, and forms.
+  3. Apply HTML tags and attributes effectively to organize and present content.
+  4. Create responsive and accessible web pages that work on various devices.
+  5. Debug and troubleshoot HTML code to resolve common issues.
+  6. Collaborate with others to build web-based projects using HTML.
+
